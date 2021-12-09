@@ -1,0 +1,21 @@
+body{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+
+.header_div{
+    background-color: rgba(155, 150, 150, 0.774);
+    color: white;
+    font-size:  12px; 
+}
+
+.main_div{
+    background-color: rgb(221, 220, 220);
+    color: rgb(189, 98, 189);
+}
+
+.copy_right_footer{
+    font-size: 20px;
+    color:black;
+    text-shadow: 3px 3px 3px black;
+}
